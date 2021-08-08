@@ -1,0 +1,7 @@
+{
+    "PROD_SERVER_URL": "https://djify.netlify.app/",
+    "PROD_REDIRECT_URL": "https:%2F%2Fdjify.netlify.app%2Fcallback",
+    "DEV_SERVER_URL": "http://localhost:3000/",
+    "DEV_REDIRECT_URL": "http:%2F%2Flocalhost:3000%2Fcallback",
+    "ENV":"PROD"
+}
