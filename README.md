@@ -1,3 +1,6 @@
+# Configuration
+Modify the "ENV" variable in src/config.json to change between DEV and PROD. PROD should always be psuhed to GitHub.
+
 # Publishing changes to Netlify
 
 Push code to GitHub
