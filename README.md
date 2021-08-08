@@ -11,6 +11,8 @@ Run "netlify deploy --prod" and specify "build" as the publish directory, this w
 
 For local builds, run: npm start
 
+Fix issues with pages here: https://sung.codes/blog/2018/12/18/page-not-found-on-netlify-with-react-router/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
