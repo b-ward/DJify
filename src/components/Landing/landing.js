@@ -7,7 +7,7 @@ class Landing extends Component {
         return(
             <div className="djify">
                 <div id="login">
-				    <h1>Receiptify</h1>
+				    <h1>Djify</h1>
 				    <h2>Top Track Generator</h2>
                     <a href="/login" className="login-btn">Log in with Spotify</a>
 				    {/* <p class="info">
